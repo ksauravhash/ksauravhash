@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning nodejs.
 - 💞️ I’m looking to collaborate on many nodejs based projects.
 - 📫 How to reach me 
-  Throught email
+- - Through email
   ksauravkhash@gmail.com
 
 <!---
